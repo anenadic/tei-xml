@@ -33,18 +33,13 @@ Look back at the two homework exercises in Episode 1:
 1. Find `msDesc` (manuscript description)
 2. Find `extent`
 
-:::::::::::::::  solution
-
-## Solution
+Hint:
 
 1. `<msDesc>` is nested within `<sourceDesc>` part of `<fileDesc`\> in the `<teiHeader>`.
 2. `<extent>` is nested within `<supportDesc>`, within `<objectDesc>` in the `<physDesc>` element.
   This sits in the `<msDesc>` section of the record.
   
   
-
-:::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Marking up descriptions (on paper)

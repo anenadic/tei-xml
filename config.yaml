@@ -20,7 +20,7 @@ carpentry: 'incubator'
 title: 'Introduction to TEI'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: 2020-02-20
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -83,8 +83,4 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-
 carpentry_description: Lesson Description
-url: 'https://carpentries-incubator.github.io/tei-xml'
-analytics: carpentries
-lang: en

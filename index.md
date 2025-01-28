@@ -14,9 +14,6 @@ Lesson design by Jane Gallagher, Elizabeth Gow, Dr Jo Edge and Phil Reed.
 
 Special thanks to Prof David Denison, Nuria Yáñez-Bouza, Dr Giles Bergel and Dr Christopher Ohge.
 
-<!-- this is an html comment -->
-
-{% comment %} This is a comment in Liquid {% endcomment %}
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
