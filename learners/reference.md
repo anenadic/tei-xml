@@ -2,8 +2,6 @@
 title: 'Glossary'
 ---
 
-## Glossary
-
 - **TEI** – Text Encoding Initiative
 - **XML** – extensible markup language
 - **Template** – most TEI records are based on a template which can be enhanced to form a...
